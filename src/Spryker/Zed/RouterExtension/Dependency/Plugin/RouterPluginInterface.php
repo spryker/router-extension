@@ -5,7 +5,7 @@
  * Use of this software requires acceptance of the Evaluation License Agreement. See LICENSE file.
  */
 
-namespace Spryker\Shared\RouterExtension\Dependency\Plugin;
+namespace Spryker\Zed\RouterExtension\Dependency\Plugin;
 
 use Symfony\Component\Routing\RouterInterface;
 
